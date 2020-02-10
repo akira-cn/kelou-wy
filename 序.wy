@@ -103,6 +103,12 @@
   施「(x=>clearTimeout(x))」於「令」。乃得矣。
 是謂「是令乃止」之術也。
 
+或云「「即施「甲」」」。
+蓋謂「「即「甲」」」。
+
+或云「「今有令施「甲」」」。
+蓋謂「「施「((x)=>{const args=Array();function f(y){if(y!==undefined){args.push(y);return f;}else{return args.reduce((a, b) =>{return a(b)}, x)}}return f;})」於「甲」」」。
+
 或云「「倏忽即「甲」不止」」。
 蓋謂「「施「倏忽不止」於「甲」」」。
 或云「「倏忽即「甲」」」。
